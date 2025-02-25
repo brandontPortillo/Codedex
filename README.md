@@ -1,0 +1,1 @@
+Este repositorio fue creado a partir de el curso de Codédex de cómo usar Git y GitHub.
